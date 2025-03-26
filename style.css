@@ -1,0 +1,33 @@
+* {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: blue;
+}
+
+#primeira-div {
+    color: orange;
+    background-color: green ;
+}
+
+#segunda-div {
+    color: black;
+    background-color: lightgreen;
+}
+
+.outras-divs {
+    color: yellow;
+    background-color: lightsalmon;
+}
+
+.bloco {
+    width: 5rem;
+    height: 5rem;
+    border-radius: .5rem;
+    background-color: skyblue;
+    color: red;
+    margin: 1rem;
+    padding: 1rem;
+}
